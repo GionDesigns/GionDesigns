@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm a Web Developer based in Melbourne, Australia
 
 <!--
 **GionDesign/GionDesign** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
