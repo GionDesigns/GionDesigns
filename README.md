@@ -6,8 +6,12 @@ I'm a Web Developer based in Melbourne, Australia
 ### Frontend
 [<img align="left" alt="vuejs" src="https://img.shields.io/badge/vue.js%20-%23626569.svg?&style=for-the-badge&logo=vue.js&logoColor=green" />](https://vuejs.org/)
 
+<br>
+
 ### Backend
 [<img align="left" alt=".net" src="https://img.shields.io/badge/.NET%20-%23626569.svg?&style=for-the-badge&logo=C%20Sharp&logoColor=white" />](https://docs.microsoft.com/en-us/dotnet/csharp/)
+
+<br>
 
 ### Devops
 [<img align="left" alt="devops" src="https://img.shields.io/badge/Azure%20DevOps%20-%23626569.svg?&style=for-the-badge&logo=Azure%20DevOps&logoColor=%23007fff" />](https://azure.microsoft.com/en-au/services/devops/)
