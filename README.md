@@ -9,14 +9,14 @@ I'm a Web Developer based in Melbourne, Australia
 <br>
 
 ### Backend
-[<img align="left" alt=".net" src="https://img.shields.io/badge/.NET%20-%23626569.svg?&style=for-the-badge&logo=C%20Sharp&logoColor=white" />](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[<img align="left" alt=".net" src="https://img.shields.io/badge/.NET%20-%23626569.svg?&style=plastic&logo=C%20Sharp&logoColor=white" />](https://docs.microsoft.com/en-us/dotnet/csharp/)
 
 <br>
 
 ### Devops
-[<img align="left" alt="devops" src="https://img.shields.io/badge/Azure%20DevOps%20-%23626569.svg?&style=for-the-badge&logo=Azure%20DevOps&logoColor=%23007fff" />](https://azure.microsoft.com/en-au/services/devops/)
+[<img align="left" alt="devops" src="https://img.shields.io/badge/Azure%20DevOps%20-%23626569.svg?&style=plastic&logo=Azure%20DevOps&logoColor=%23007fff" />](https://azure.microsoft.com/en-au/services/devops/)
 
-[<img align="left" alt="azure" src="https://img.shields.io/badge/Microsoft%20Azure%20-%23626569.svg?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=%23007fff" />](https://azure.microsoft.com/en-au/)
+[<img align="left" alt="azure" src="https://img.shields.io/badge/Microsoft%20Azure%20-%23626569.svg?&style=plastic&logo=Microsoft%20Azure&logoColor=%23007fff" />](https://azure.microsoft.com/en-au/)
 
 <!--
 **GionDesign/GionDesign** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
