@@ -4,7 +4,7 @@ I'm a Web Developer based in Melbourne, Australia
 ## Used Technologies
 
 ### Frontend
-[<img align="left" alt="vuejs" src="https://img.shields.io/badge/vue.js%20-%23626569.svg?&style=for-the-badge&logo=vue.js&logoColor=green" />](https://vuejs.org/)
+[<img align="left" alt="vuejs" src="https://img.shields.io/badge/vue.js%20-%23626569.svg?&style=plastic&logo=vue.js&logoColor=green" />](https://vuejs.org/)
 
 <br>
 
