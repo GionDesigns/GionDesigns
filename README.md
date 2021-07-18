@@ -3,17 +3,11 @@ I'm a Web Developer based in Melbourne, Australia
 
 ## Used Technologies
 
-<a href="https://vuejs.org/" target="_blank">
-  <img align="left" alt="vuejs" src="https://img.shields.io/badge/vue.js%20-%23626569.svg?&style=for-the-badge&logo=vue.js&logoColor=green" />
-</a>
+[<img align="left" alt="vuejs" src="https://img.shields.io/badge/vue.js%20-%23626569.svg?&style=for-the-badge&logo=vue.js&logoColor=green" />](https://vuejs.org/)
 
-<a href="https://azure.microsoft.com/en-au/services/devops/" target="_blank">
-  <img align="left" alt="devops" src="https://img.shields.io/badge/Azure%20DevOps%20-%23626569.svg?&style=for-the-badge&logo=Azure%20DevOps&logoColor=%23007fff" />
-</a>
+[<img align="left" alt="devops" src="https://img.shields.io/badge/Azure%20DevOps%20-%23626569.svg?&style=for-the-badge&logo=Azure%20DevOps&logoColor=%23007fff" />](https://azure.microsoft.com/en-au/services/devops/)
 
-<a href="https://azure.microsoft.com/en-au/" target="_blank">
-  <img align="left" alt="azure" src="https://img.shields.io/badge/Microsoft%20Azure%20-%23626569.svg?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=%23007fff" />
-</a>
+[<img align="left" alt="azure" src="https://img.shields.io/badge/Microsoft%20Azure%20-%23626569.svg?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=%23007fff" />](https://azure.microsoft.com/en-au/)
 
 <!--
 **GionDesign/GionDesign** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
