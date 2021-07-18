@@ -2,7 +2,7 @@
 I'm a Web Developer based in Melbourne, Australia
 
 ## Used Technologies
-<img align="left" alt="vuejs" src="https://img.shields.io/static/v1?label=Vue.js&message=used&color=green&style=for-the-badge&logo=vue.js&logoColor=%2361DAFB" />
+<img align="left" alt="vuejs" src="https://img.shields.io/badge/vue.js%20-%23626569.svg?&style=for-the-badge&logo=vue.js&logoColor=green" />
 <!--
 **GionDesign/GionDesign** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
