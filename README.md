@@ -53,6 +53,8 @@ I'm a Web Developer based in Melbourne, Australia
 
 [<img align="left" alt="heroku" src="https://img.shields.io/badge/Heroku%20-%23626569.svg?&style=for-the-badge&logo=Heroku&logoColor=%23430098" />](https://www.heroku.com/)
 
+<br>
+
 [<img align="left" alt="digitalocean" src="https://img.shields.io/badge/DigitalOcean%20-%23626569.svg?&style=for-the-badge&logo=DigitalOcean&logoColor=%230080FF" />](https://www.digitalocean.com/)
 
 [<img align="left" alt="graphql" src="https://img.shields.io/badge/GraphQL%20-%23626569.svg?&style=for-the-badge&logo=GraphQL&logoColor=%23E434AA" />](https://graphql.org/learn/)
