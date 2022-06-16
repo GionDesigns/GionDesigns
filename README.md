@@ -1,6 +1,14 @@
 ### Hi there 👋
 I'm a Web Developer based in Melbourne, Australia
 
+## Checkout my other content at:
+
+https://gitlab.com/GionDesign
+
+And 
+
+https://github.com/GionDesign
+
 ## Used Technologies
 
 ### <strong><u>Frontend</u></strong>
