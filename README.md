@@ -9,6 +9,12 @@ And
 
 https://github.com/GionDesign
 
+As well as my profile page:
+
+https://pascalcouturier.com.au
+
+---
+
 ## Used Technologies
 
 ### <strong><u>Frontend</u></strong>
